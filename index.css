@@ -126,7 +126,7 @@ a.hint:hover{
     font-weight: bolder;
     text-decoration-line: underline;
     text-align: center;
-    position: fixed;
+    position: relative;
 }
 .potraits-desc{
     display: flex;
